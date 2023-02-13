@@ -1,3 +1,3 @@
 # TT-ui
 基于vue2的基础ui组件库
-https://kisatody.github.io/TT-ui/
+https://kisatody.github.io/TT-ui/dist
